@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Waptrick Pro</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="refresh">Perbarui</string>
+
+    <string name="no_internet">Tidak ada koneksi internet</string>
+    <string name="no_internet_question">Aktifkan koneksi internet ?</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="loading">Harap tunggu...</string>
+
+    <string name="nativ_ad_unit_id">ca-app-pub-9276418840515235/4928470702</string>
+</resources>

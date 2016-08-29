@@ -1,0 +1,15 @@
+<com.google.android.gms.ads.NativeExpressAdView
+    android:id="@+id/adView"
+    android:layout_marginTop="3dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginBottom="3dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:elevation="1dp"
+    android:translationZ="1dp"
+    ads:adSize="350x132"
+    ads:adUnitId="@string/nativ_ad_unit_id"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+</com.google.android.gms.ads.NativeExpressAdView>
